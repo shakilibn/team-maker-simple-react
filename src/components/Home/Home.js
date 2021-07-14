@@ -25,18 +25,21 @@ const Home = () => {
   };
 
   return (
-    <div className="home">
-      <div className="players-info">
-        {players.map((item) => (
-          <PlayerCard
-            handleAddToTeam={handleAddToTeam}
-            key={item.id}
-            player={item}
-          />
-        ))}
-      </div>
-      <div className="selected-team-area">
-        <Cart handleRemoveFromTeam={handleRemoveFromTeam} team={team} />
+    <div>
+      <h3 className="text-center py-4">Select you Player to make a team</h3>
+      <div className="home">
+        <div className="players-info">
+          {players.map((item) => (
+            <PlayerCard
+              handleAddToTeam={handleAddToTeam}
+              key={item.id}
+              player={item}
+            />
+          ))}
+        </div>
+        <div className="selected-team-area">
+          <Cart handleRemoveFromTeam={handleRemoveFromTeam} team={team} />
+        </div>
       </div>
     </div>
   );
