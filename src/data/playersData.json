@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "img": "https://resources.pulse.icc-cricket.com/players/284/201.png",
+      "email": "shakib@gmail.com",
+      "phone": "1-770-736-8031 x56442",
+      "salary":1500
+    },{
+      "id": 2,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "img": "https://resources.pulse.icc-cricket.com/players/284/491.png",
+      "email": "mushfiq@gmail.com",
+      "phone": "1-770-736-8032 x56442",
+      "salary":1400
+    },{
+      "id": 3,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "img": "https://resources.pulse.icc-cricket.com/players/284/287.png",
+      "email": "tamim@gmail.com",
+      "phone": "1-770-736-8033 x56442",
+      "salary":1400
+    },{
+      "id": 4,
+      "name": "Mashrafe Mortaza",
+      "country": "Bangladesh",
+      "img": "https://resources.pulse.icc-cricket.com/players/284/391.png",
+      "email": "mashrafe@gmail.com",
+      "phone": "1-770-736-8034 x56442",
+      "salary":1400
+    },{
+      "id": 5,
+      "name": "Mahmudullah",
+      "country": "Bangladesh",
+      "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mahmudullah-CWC19.ashx",
+      "email": "mahmudullah@gmail.com",
+      "phone": "1-770-736-8035 x56442",
+      "salary":1300
+    },{
+      "id": 6,
+      "name": "Liton Das",
+      "country": "Bangladesh",
+      "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Liton-Das-CWC19.ashx",
+      "email": "liton@gmail.com",
+      "phone": "1-770-736-8036 x56442",
+      "salary":1100
+    },{
+      "id": 7,
+      "name": "Sabbir Rahman",
+      "country": "Bangladesh",
+      "img": "https://resources.pulse.icc-cricket.com/players/284/1734.png",
+      "email": "sabbir@gmail.com",
+      "phone": "1-770-736-8037 x56442",
+      "salary":1200
+    },{
+      "id": 8,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "img": "https://i.pinimg.com/originals/9a/d8/d1/9ad8d196afb62a5852924ab18c02e23b.png",
+      "email": "smith@gmail.com",
+      "phone": "1-770-736-8038 x56442",
+      "salary":2000
+    },{
+      "id": 9,
+      "name": "David Warner",
+      "country": "Australia",
+      "img": "https://www.cricket.com.au/-/media/Players/Men/International/Australia/David-Warner-ODI2020.ashx",
+      "email": "warner@gmail.com",
+      "phone": "1-770-736-8039 x56442",
+      "salary":2000
+    },{
+      "id": 10,
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "img": "https://storage.googleapis.com/cricketimages/Players/7Q.png",
+      "email": "maxwell@gmail.com",
+      "phone": "1-770-736-8310 x56442",
+      "salary":2500
+    },{
+      "id": 11,
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "img": "https://peaklife.in/wp-content/uploads/2017/05/ab-de-villiers-sa-1-e1496298412339.png",
+      "email": "villiers@gmail.com",
+      "phone": "1-770-736-8311 x56442",
+      "salary":2500
+    },{
+      "id": 12,
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "img": "https://www.cricket.com.au/-/media/Players/Men/International/West%20Indies/ODIWC19/Chris-Gayle-CWC19.ashx",
+      "email": "gayle@gmail.com",
+      "phone": "1-770-736-8312 x56442",
+      "salary":2500
+    },{
+      "id": 13,
+      "name": "Virat Kohli",
+      "country": "India",
+      "img": "https://resources.pulse.icc-cricket.com/players/284/164.png",
+      "email": "kohli@gmail.com",
+      "phone": "1-770-736-813 x56442",
+      "salary":1800
+    },{
+      "id": 14,
+      "name": "Dale Steyn",
+      "country": "South Africa",
+      "img": "https://www.cricket.com.au/-/media/Players/Men/International/South%20Africa/Dale-Steyn-CWC19.ashx",
+      "email": "steyn@gmail.com",
+      "phone": "1-770-736-814 x56442",
+      "salary":2000
+    },{
+      "id": 15,
+      "name": "MS Dhoni",
+      "country": "India",
+      "img": "https://resources.pulse.icc-cricket.com/players/284/1.png",
+      "email": "dhoni@gmail.com",
+      "phone": "1-770-736-830 x56442",
+      "salary":1500
+    }
+  ]

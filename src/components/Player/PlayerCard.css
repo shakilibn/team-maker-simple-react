@@ -1,0 +1,18 @@
+.player-card img {
+  height: 200px;
+}
+.player-card {
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  width: 280px;
+}
+.player-card button {
+  background-color: purple;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+}

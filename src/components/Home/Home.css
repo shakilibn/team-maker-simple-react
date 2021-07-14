@@ -1,0 +1,12 @@
+.home {
+  display: flex;
+}
+.players-info {
+  border-right: 1px solid lightgray;
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+}
+.selected-team-area {
+  padding: 10px;
+}

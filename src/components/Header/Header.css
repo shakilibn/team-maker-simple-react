@@ -1,0 +1,10 @@
+.header {
+  background-color: purple;
+  padding: 30px;
+  margin-bottom: 20px;
+  color: white;
+  text-align: center;
+}
+.header h3 {
+  font-size: 40px;
+}
